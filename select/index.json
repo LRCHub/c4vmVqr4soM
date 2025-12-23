@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Romance",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-23T08:12:38.462266Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Modern Day Romance",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": true,
+      "path": "select/01_Modern_Day_Romance_The_Nitty_Gritty_Dirt_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Third Rate Romance",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/02_Third_Rate_Romance_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Third Rate Romance",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/03_Third_Rate_Romance_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Third Rate Romance (Album Version)",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/04_Third_Rate_Romance_(Album_Version)_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby's Romance",
+      "artist": "Chris Garneau",
+      "has_synced": true,
+      "path": "select/05_Baby's_Romance_Chris_Garneau.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Longing for Romance",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/06_Longing_for_Romance_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Modern Romance",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/07_Modern_Romance_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Modern Romance",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": false,
+      "path": "select/08_Modern_Romance_Yeah_Yeah_Yeahs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/09_Bad_Romance_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Romance (Kaskade Main Mix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/10_Bad_Romance_(Kaskade_Main_Mix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Romance",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/11_Romance_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Romance Is Boring",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/12_Romance_Is_Boring_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Fine Romance",
+      "artist": "Marilyn Monroe",
+      "has_synced": true,
+      "path": "select/13_A_Fine_Romance_Marilyn_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Romance",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/14_Romance_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Romance",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Romance_YOASOBI.txt"
+    }
+  ]
+}
